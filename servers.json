@@ -1,9 +1,12 @@
 [
-    {
-      "color": "FF0000",
-      "dopname": "(X2)",
-      "maxonline": 1000,
-      "name": "RED",
-      "online": 2
-    }
-  ]
+  {
+    "name": "LUNZO CRMP",
+    "color": "FFAA00",
+    "dopname": "(X2)",
+    "host": "188.127.241.74",
+    "ip": "188.127.241.74",
+    "port": 7858,
+    "online": 1,
+    "maxonline": 1000
+  }
+]
